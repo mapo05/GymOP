@@ -33,3 +33,8 @@ Gym name is only a label, not a sign-in. Anyone who knows a gym name can read or
 
 - `npm test` runs the automated acceptance tests.
 - `npm run build` makes the production build and checks TypeScript.
+
+
+## Supabase persistence
+
+See [SUPABASE_SETUP.md](./SUPABASE_SETUP.md) for database setup, environment variables, and security limitations.
